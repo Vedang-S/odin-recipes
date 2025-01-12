@@ -1,0 +1,28 @@
+* {
+    background:url(https://i.pinimg.com/1200x/91/24/51/912451affa5eacb1521f3c17a33832a6.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-align:center;
+}
+
+a {
+    color:brown;
+}
+
+ul {
+    display:table;
+    margin: 0 auto;
+    text-align:left;
+}
+
+ol {
+    display:table;
+    margin: 0 auto;
+    text-align:left;
+}
+
+
+img:hover {
+    scale:1.05;
+    transform:smooth;
+}
